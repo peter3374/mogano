@@ -1,6 +1,13 @@
+
+
+
+
 # mogano
 
 Wallpaper app with my own wallpapers.
+## Demo video
+
+https://user-images.githubusercontent.com/56002552/131147639-99e43b3b-28ce-49a9-b5f0-227539ae5aa0.mp4
 
 ## Screenshots:
 
