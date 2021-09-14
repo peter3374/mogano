@@ -7,7 +7,10 @@
 Wallpaper app with my own wallpapers.
 ## Demo video
 
-https://user-images.githubusercontent.com/56002552/131147639-99e43b3b-28ce-49a9-b5f0-227539ae5aa0.mp4
+
+https://user-images.githubusercontent.com/56002552/133320837-0a22d729-4063-47c4-a5e6-6c60f2d8a74e.mp4
+
+
 
 ## Screenshots:
 
