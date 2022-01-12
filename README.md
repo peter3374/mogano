@@ -5,7 +5,7 @@
 # mogano
 
 Wallpaper app with my own wallpapers.
-Just testing, nothing serius.
+Just testing, nothing serious.
 ## Demo video
 
 
